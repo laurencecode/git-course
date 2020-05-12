@@ -1,0 +1,24 @@
+Revert "made background blue"
+
+This reverts commit 85968d264a173c675881686a4605165324468af6.
+I'm going back into time to undo what we did on the unordered list
+:wq
+
+
+
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	modified:   css/main.css
+#  
+~
+~
+~
+~
+
+
+
